@@ -5,8 +5,9 @@
 }
 
 .SubHead {
-    font-size: 25px;
+    font-size: 50px;
     line-height: 5px;
+    color: blueviolet;
     font-weight: bold;
     text-align: left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -22,6 +23,12 @@
 #Mast {
     background-image: linear-gradient(to bottom right,purple,blue);
     height: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Footer {
+    background-image: linear-gradient(to bottom right,purple,blue);
+    height: 100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
