@@ -21,7 +21,7 @@ img {
 }
 
 .BodyFont {
-    font-size: 16px;
+    font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
 }
@@ -50,6 +50,18 @@ img {
     height: 450px;
     margin: 5px;
     border: 2px solid blueviolet;  
+}
+
+#Profile-Image {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 10%;
+    margin-right: 20px;
+    border: 2px solid blueviolet;
+}
+
+#float-left {
+    float: left;
 }
 
 #Mast {
