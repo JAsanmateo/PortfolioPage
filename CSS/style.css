@@ -22,13 +22,13 @@
 
 #Mast {
     background-image: linear-gradient(to bottom right,purple,blue);
-    height: 200px;
+    height: 150px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #Footer {
     background-image: linear-gradient(to bottom right,purple,blue);
-    height: 100px;
+    height: 75px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
