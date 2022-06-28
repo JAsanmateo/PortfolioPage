@@ -26,6 +26,24 @@ img {
    
 }
 
+.P-Center {
+    position: relative;
+    right: 42%;
+    left: 42%;
+}
+
+.P-Left {
+    position: relative;
+    right: 25%;
+    left: 25%;
+}
+
+ .P-Right {
+   position: relative;
+   right: 60%;
+   left: 60%;
+} 
+
 #Main-Image {
     display: inline;
     width: 100%;
