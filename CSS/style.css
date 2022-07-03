@@ -2,12 +2,28 @@
     box-sizing: border-box;
 }
 
+header {
+    background-image: linear-gradient(to bottom right,purple,blue);
+    height: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+
+nav {
+    background-color: blue ;
+    height: 25px; 
+}
+
+#BigBar {
+    border-top: 2px solid black;
+    margin-top: .10px;
+}
 img {
     display:inline;
     width: 23.75%;
     height: 100px;
     margin: 5px;
-    border: 2px solid blueviolet;
+    border: 2px solid rgb(202, 43, 226);
   }
 
 .SubHead {
@@ -72,7 +88,7 @@ img {
 
 #Footer {
     background-image: linear-gradient(to bottom right,purple,blue);
-    height: 75px;
+    height: 48px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -99,4 +115,21 @@ img {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+
+@media screen and (max-width: 768px) {
+    #AboutBlock {
+        display: inline-block;
+      width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    #WorkBlock {
+      display:inline-flex;
+      width: 100%;
+    }
+}
+
+
 
